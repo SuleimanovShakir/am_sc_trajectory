@@ -12,7 +12,7 @@ The goal was to identify gene expression changes along differentiation trajector
 | `full_preprocessing.R` | Full preprocessing pipeline for the complete dataset and extraction of adrenal medulla cells|
 | `scrublet.ipynb`       | Python notebook using **Scrublet** for doublet detection on raw data. |
 | `am_processing.R`      | Processing of adrenal medulla single-cell data, filtering artefact cells and integration. |
-| `trajectories.R`       | Differentiation trajectories analysis using **Slingshot**, or **tradeSeq**, and identification of pseudotime-dependent gene expression. |
+| `trajectories.R`       | Differentiation trajectories analysis using **Slingshot** and **tradeSeq**, and identification of pseudotime-dependent gene expression. |
 | `helpers.R`            | Custom functions used in analysis. |
 
 
